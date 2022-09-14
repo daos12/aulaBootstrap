@@ -1,0 +1,44 @@
+body{
+    height: 1000px;
+}
+
+.navbar{
+    padding: 15px; /* aumentar o tamanho da barra de navegação*/
+    background-color: rgb(11, 35, 58);      /*Cor de fundo da barra*/
+    font-size: 20px;      /*Aumentar e letra*/
+    text-decoration: none;      /*Remove sublinhado hiper link*/
+    color: white;
+    text-align: right;
+    position: fixed;
+}
+
+h1{
+    font-size: 80px;
+}
+
+h3{
+    text-align: center;
+}
+
+p{
+    font-size: larger;
+    text-align: justify;
+}
+
+.introducao{
+    padding-top: 200px;
+    padding-left: 150px;
+    padding-bottom: 150px;
+    padding-right: 100px;
+    background-color: #dcdcdc7c
+}
+
+.infos{
+    padding: 50px;
+}
+
+.goo{
+    padding-left: 180px;
+}
+
+/**/
